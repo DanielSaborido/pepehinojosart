@@ -1,5 +1,6 @@
 .fondo{
     background: url(../Imagenes/fondo3.jpg);
+    color: black;
 }
 .contenedor{
     display: grid;
