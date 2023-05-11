@@ -1,6 +1,5 @@
 .fondo{
     background: url(../Imagenes/fondo3.jpg);
-    color: aliceblue;
 }
 .contenedor{
     display: grid;
@@ -18,7 +17,7 @@
     width: 100%;
     grid-column-start: 1;
     grid-column-end: 6;
-    border-bottom: 3px solid aliceblue;
+    border-bottom: 3px solid;
     display:flex;
     justify-content: space-between;
     align-items:center;
@@ -28,7 +27,7 @@
     width: 99%;
     grid-row-start: 2;
     grid-row-end: 14;
-    border-right: 3px solid aliceblue;
+    border-right: 3px solid;
 }
 div > ul{
     display: block;
@@ -61,7 +60,6 @@ div > ul{
 }
 a{
     text-decoration: none;
-    color: aliceblue;
 }
 img[alt="anchas"]{
     height: 500px;
@@ -91,7 +89,7 @@ img[alt="logo"]{
     grid-column-start: 2;
     grid-column-end: 6;
     width: 100%;
-    border-top: 3px solid aliceblue;
+    border-top: 3px solid;
     text-align: center;
 }
 .titulos1{
